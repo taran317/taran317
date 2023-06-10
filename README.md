@@ -1,12 +1,12 @@
 # Hey there👋, I'm Taran<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
-![Snake](/snake.svg)
+![Snake](https://raw.githubusercontent.com/taran317/taran317/ae078a9e58971f884de594f13208734a0e72de15/snake.svg)
 
 ## Here's a little about me:
 
 - 🔭 I'm a Junior studying CS @ UPenn
 
-- I'm currently an SWE Intern @ Mathworks, a developer @ [Hack4Impact](https://hack4impact.org/) and [Penn Labs](https://pennlabs.org/products), and a Data Structures and Algorithms (CIS 1210) TA
+- 👨‍💻 I'm currently an SWE Intern @ Mathworks, a developer @ [Hack4Impact](https://hack4impact.org/) and [Penn Labs](https://pennlabs.org/products), and a Data Structures and Algorithms (CIS 1210) TA
 
 - 📫 You can reach me @ **tars@seas.upenn.edu**
 
