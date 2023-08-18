@@ -10,7 +10,7 @@
 
 - 📫 You can reach me @ **tars@seas.upenn.edu**
 
-- ⚡ Learn more about me @ !
+- ⚡ Learn more about me @ [tarananantasagar.com](https://www.tarananantasagar.com/)!
 
 ## 🚀 Skills and Technologies
 
