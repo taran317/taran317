@@ -4,7 +4,7 @@
 
 ## Here's a little about me:
 
-- 🔭 I'm a Junior studying CS @ UPenn
+- 🔭 I'm a Rising Senior studying CS @ UPenn
 
 - 👨‍💻 I'm currently an SWE Intern @ Mathworks, a developer @ [Hack4Impact](https://hack4impact.org/) and [Penn Labs](https://pennlabs.org/products), and a Data Structures and Algorithms (CIS 1210) TA
 
